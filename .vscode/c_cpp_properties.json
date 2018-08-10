@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "WinGW64",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "c:\\yl-tool\\mingw-w64\\mingw64\\bin\\g++.exe",
+            "includePath": [
+                "${workspaceRoot}",
+                "c:\\yl-tool\\mingw-w64\\mingw64\\include",
+                "c:\\yl-tool\\mingw-w64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\0.1.0\\include\\c++\\**",
+                "C:\\yl-tool\\LLVM\\bin",
+                "C:\\yl-tool\\LLVM\\include\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                	"c:\\yl-tool\\mingw-w64\\mingw64\\include",
+                    "c:\\yl-tool\\mingw-w64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\0.1.0\\include\\c++\\**",
+                    "c:\\yl-tool\\mingw-w64\\mingw64\\lib",
+                    "C:\\yl-tool\\LLVM\\bin",
+                    "C:\\yl-tool\\LLVM\\include\\**"
+                ]
+			},
+			"limitSymbolsToIncludeHeaders":true,
+			"databaseFilename":"",
+			"cStandard": "c11",
+			"cppStandard": "c++14"
+        }
+	],
+	"version": 4
+}
