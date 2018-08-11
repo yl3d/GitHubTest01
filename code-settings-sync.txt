@@ -1,1 +1,55 @@
-Sync : 上传完成. GIST ID : eb6b6a2dbfc7439dc7a2094543216d48 .请在其他计算机上复制并使用此ID以下载设置.
+Sync : 上传完成. GIST ID :
+
+ eb6b6a2dbfc7439dc7a2094543216d48 
+
+.请在其他计算机上复制并使用此ID以下载设置.
+
+// GitHub Token: 668f195f207b0a095cab4835dc4aacda41430026 记录在本机:
+// C:\Users\Mac\AppData\Roaming\Code\User\syncLocalSettings.json 的 Token 中
+//下为第一次 UpLoad 记录:
+
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.0.0
+--------------------
+GitHub Token: 668f195f207b0a095cab4835dc4aacda41430026
+GitHub Gist: eb6b6a2dbfc7439dc7a2094543216d48
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  beautify v1.3.2
+  clang-format v1.6.2
+  cmake v0.0.17
+  cmake-tools v1.1.1
+  code-gnu-global v0.2.2
+  code-runner v0.9.4
+  code-settings-sync v3.0.0
+  cpptools v0.17.7
+  csharp v1.15.2
+  EditorConfig v0.12.4
+  GBKtoUTF8 v0.0.2
+  gitlens v8.5.4
+  godot-tools v0.3.7
+  latex-workshop v5.7.0
+  markdown-preview-enhanced v0.3.5
+  pdf v0.3.0
+  python v2018.7.1
+  shader v1.1.3
+  shader-toy v0.7.0
+  team v1.136.0
+  vscode-clang v0.2.2
+  vscode-icons v7.25.0
+  vscode-markdownlint v0.19.0
+  vscode-solution-explorer v0.2.32
+  vscode-theme-onedark v2.1.0
+--------------------
+Done.
