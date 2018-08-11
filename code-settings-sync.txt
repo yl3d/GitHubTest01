@@ -4,14 +4,14 @@ Sync : 上传完成. GIST ID :
 
 .请在其他计算机上复制并使用此ID以下载设置.
 
-// GitHub Token: 668f195f207b0a095cab4835dc4aacda41430026 记录在本机:
+// GitHub Token: c076752f8a94eac4f5d9d8ff01697852766b5fe6记录在本机:
 // C:\Users\Mac\AppData\Roaming\Code\User\syncLocalSettings.json 的 Token 中
 //下为第一次 UpLoad 记录:
 
 CODE SETTINGS SYNC UPLOAD SUMMARY
 Version: 3.0.0
 --------------------
-GitHub Token: 668f195f207b0a095cab4835dc4aacda41430026
+GitHub Token: c076752f8a94eac4f5d9d8ff01697852766b5fe6
 GitHub Gist: eb6b6a2dbfc7439dc7a2094543216d48
 GitHub Gist Type: Secret
 
@@ -27,6 +27,7 @@ Extensions Removed:
 
 Extensions Added:
   beautify v1.3.2
+  bracket-pair-colorizer v1.0.59
   clang-format v1.6.2
   cmake v0.0.17
   cmake-tools v1.1.1
@@ -52,4 +53,4 @@ Extensions Added:
   vscode-solution-explorer v0.2.32
   vscode-theme-onedark v2.1.0
 --------------------
-Done.
+Done..
