@@ -11,6 +11,7 @@
     "terminal.integrated.rendererType": "dom",
     "editor.largeFileOptimizations": false,
     "files.autoGuessEncoding": true,
+    "editor.detectIndentation": false,
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
