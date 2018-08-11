@@ -12,6 +12,9 @@
     "editor.largeFileOptimizations": false,
     "files.autoGuessEncoding": true,
     "editor.detectIndentation": false,
+    "[cpp]": {
+        "editor.autoIndent": true
+    },
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
