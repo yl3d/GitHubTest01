@@ -5,7 +5,7 @@
     "C_Cpp.clang_format_path": "C:\\yl-tool\\LLVM\\bin\\clang-format.exe",
     //"terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],//wrong
     //"terminal.integrated.shellArgs.windows": ["chcp 65001 >nul"],//good--ANSI-GB2312
-    "terminal.integrated.shellArgs.windows": ["cmd /k chcp 65001 >nul"],//good--UTF-8
+    //"terminal.integrated.shellArgs.windows": ["cmd /k chcp 65001 >nul"],//good--UTF-8
     "git.enableSmartCommit": true,
     "explorer.confirmDelete": false,
     "terminal.integrated.rendererType": "dom",
