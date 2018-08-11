@@ -15,6 +15,7 @@
     "[cpp]": {
         "editor.autoIndent": true
     },
+    "sync.gist": "fb79c6627d736503ea8cfd6356c2795bbe8ff36f",
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
