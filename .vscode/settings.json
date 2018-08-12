@@ -1,24 +1,101 @@
 {
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Atom One Dark",
-    "team.showWelcomeMessage": false,
-    "C_Cpp.clang_format_path": "C:\\yl-tool\\LLVM\\bin\\clang-format.exe",
-    //"terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],//wrong
-    //"terminal.integrated.shellArgs.windows": ["chcp 65001 >nul"],//good--ANSI-GB2312
-    //"terminal.integrated.shellArgs.windows": ["cmd /k chcp 65001 >nul"],//good--UTF-8
-    "git.enableSmartCommit": true,
-    "explorer.confirmDelete": false,
-    "terminal.integrated.rendererType": "dom",
-    "editor.largeFileOptimizations": false,
-    "files.autoGuessEncoding": true,
-    "editor.detectIndentation": false,
-    "[cpp]": {
-        "editor.autoIndent": true
-    },
+    // Total 961 Settings
+    // Commonly Used(2/11) :
+    "editor.fontSize": 14,
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
         "ios": "cpp",
         "string": "cpp"
-    }
+    },
+    // Editor(2/87) :
+    "editor.largeFileOptimizations": false,
+    "editor.detectIndentation": false,
+    // SCM(0/3) :
+    // Workbench(2/33) :
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Atom One Dark",
+    // Window(1/14) :
+    "window.menuBarVisibility": "default",
+    // Files(1/15) :
+    "files.autoGuessEncoding": true,
+    // Zen Mode(0/6) :
+    // File Explorer(1/8):
+    "explorer.confirmDelete": false,
+    // Search(0/7) :
+    // HTTP(0/3) :
+    // Update(0/3) :
+    // Debug(0/9) :
+    // HTML(0/18) :
+    // JSON(0/3) :
+    // Markdown(0/12) :
+    // PHP(0/4) :
+    // TypeScript(0/63) :
+    // CSS(0/21) :
+    // LESS(0/19) :
+    // SCSS(Sass)(0/19) :
+    // Extensions(0/4) :
+    // Extenral Terminal(0/4) :
+    // Integrated Terminal(1/31) :
+    "terminal.integrated.rendererType": "dom",
+    //"terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],//wrong
+    //"terminal.integrated.shellArgs.windows": ["chcp 65001 >nul"],//good--ANSI-GB2312
+    //"terminal.integrated.shellArgs.windows": ["cmd /k chcp 65001 >nul"],//good--UTF-8
+
+    // Problems View(0/2) :
+    // Telemetry(0/2) :
+    // Outline(0/4) :
+    // Grunt(0/1) :
+    // LaTeX Workshop configuration(0/40) :
+    // Default Configuration Overides(1/8) :
+    "[cpp]": {
+        "editor.autoIndent": true
+    },
+    // Clang command adapter configulation(0/11) :
+    // Jake(0/1) :
+    // Python Configuration(0/89) :
+    // Merge Conflict(0/2) :
+    // C/C++ Configuration(1/34) :
+    "C_Cpp.clang_format_path": "C:\\yl-tool\\LLVM\\bin\\clang-format.exe",
+    // Git(1/20) :
+    "git.enableSmartCommit": true,
+    // C# configuration(0/17) :
+    // Emmet(0/11) :
+    // Team Services extension option(1/11) :
+    "team.showWelcomeMessage": false,
+    // markdownlint configuration(0/4) :
+    // vscode-icon 设置(0/20) :
+    // Gitlens(1/97) :
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    // 代码同步配置(12/12) :
+    "sync.askGistName": false,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    //"sync.gist": "eb6b6a2dbfc7439dc7a2094543216d48",
+    "sync.host": "",
+    "sync.lastDownload": "",
+    "sync.lastUpload": "2018-08-11T12:48:06.133Z",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    // Run Code configuration(0/20) :
+    // Markdown Preview Enhanced(0/33) :
+    // Beautify config(0/3) :
+    // VS Code Shader Configuration(0/2) :
+    // Npm(0/6) :
+    // BracketPair(0/15) :
+    // Clang-Format configuration(0/34) :
+    // CMake Tools configuration(0/36) :
+    // CMake configuration(0/1) :
+    // Shader Toy(0/4) :
+    // Git History configuration(0/3) :
+    // Search(ripgrep)(0/1) :
+    // Gulp(0/1) :
+    // Godot tools configuration(0/10) :
+    // vscode-solution-explorer configuration(0/9) :
+
 }
