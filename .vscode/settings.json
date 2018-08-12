@@ -16,7 +16,7 @@
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Atom One Dark",
     // Window(1/14) :
-    "window.menuBarVisibility": "default",
+    //"window.menuBarVisibility": "default",
     // Files(1/15) :
     "files.autoGuessEncoding": true,
     // Zen Mode(0/6) :
